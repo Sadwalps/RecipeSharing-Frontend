@@ -1,0 +1,1 @@
+export const serverURL = "https://recipe-sharing-backend-ldg7.onrender.com"
