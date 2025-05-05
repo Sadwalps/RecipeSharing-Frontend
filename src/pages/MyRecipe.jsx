@@ -70,7 +70,8 @@ function MyRecipe() {
             {/* My Recipe largescreen */}
 
 
-
+             
+            <div style={{minHeight:"70vh"}}>
             {userRecipe ?
                 userRecipe?.map((item) => (<div className='mt-3 mb-3' id='homerecipelargescreen'>
                     <div className='container-fluid'>
@@ -113,6 +114,7 @@ function MyRecipe() {
                         <div className="col-3"></div>
                     </div>
                 </div>}
+                </div>
 
 
 

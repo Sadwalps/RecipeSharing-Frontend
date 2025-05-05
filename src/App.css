@@ -19,6 +19,7 @@
 #homerecipesmallscreen{
     display: none;
 }
+
 .footerlogos{
     background-color:white;
     height: 55px;
@@ -42,7 +43,7 @@
     background-image: url(https://static.wixstatic.com/media/b87ced_90d1d8820c6d427f9dd0a45143292daa~mv2.jpg/v1/fill/w_732,h_410,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/b87ced_90d1d8820c6d427f9dd0a45143292daa~mv2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 90vh;
+    height: 100vh;
 }
 #Allrecipe{
     background-image: url(https://www.bulletproof.com/wp-content/uploads/2021/08/grilled-steak-with-grilled-vegetables-beer-and-wine-on-a-dark-wooden-picture-id696864806.jpg);
