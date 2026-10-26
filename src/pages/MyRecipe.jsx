@@ -77,7 +77,7 @@ function MyRecipe() {
                         <div className="row">
                             <div className="col-md-2"></div>
                             <div className="col-md-4 p-lg-1 p-2">
-                                <img src={`${serverURL}/uploads/${item?.recipeImage}`} alt="" className='w-100' style={{ height: "340px" }} />
+                                <img src={item?.recipeImage} alt="" className='w-100' style={{ height: "340px" }} />
                             </div>
                             <div className="col-md-4 ps-lg-5 ps-1 d-flex flex-column justify-content-center ">
                                 <h1 style={{ fontWeight: "bold" }}>{item?.recipename}</h1>
